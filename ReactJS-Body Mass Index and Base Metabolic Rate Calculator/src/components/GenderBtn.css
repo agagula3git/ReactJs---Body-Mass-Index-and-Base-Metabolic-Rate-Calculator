@@ -1,0 +1,28 @@
+.btn-male{
+    display: flex;
+    flex: 1;
+    color: #ffffff;
+    background-color: #000000;
+    font-size: 14pt;
+    height: 9em;
+    font-weight: lighter;
+    margin: 10px 5px 15px 10px;
+    border-radius: 10px;
+    align-items: flex-end;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn-female{
+    display:flex;
+    flex: 1;
+    margin-right: 10px;
+}
+
+.btn-female:hover, .btn-male:hover{
+    opacity: 0.7;
+}
+
+.btn-male:active{
+    background-color: rgba(128, 0, 128, 0.767);
+}

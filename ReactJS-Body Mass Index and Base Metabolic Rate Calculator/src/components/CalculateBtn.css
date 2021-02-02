@@ -1,0 +1,21 @@
+.calc-btn{
+    flex: 1;
+    background-color:  rgba(128, 0, 128, 0.767);
+    color: #ffffff;
+    font-size: 14pt;
+    font-weight: lighter;
+    height: 1.5em;
+    border-radius: none;
+    display: flex;
+    margin: 5px 10px 10px 10px;
+    justify-content: center;
+
+}
+
+.calc-btn:hover{
+    opacity: 0.5;
+}
+
+.reset-btn{
+    background-color: rgba(255, 0, 0, 0.671);
+}

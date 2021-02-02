@@ -1,0 +1,17 @@
+.btn-weight{
+    flex:  1;
+    font-size: 30pt;
+    font-weight: bolder;
+    height: 1.5em;
+    width: 1.5em;
+    text-align: center;
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    border-radius: 50%;
+    background-color: rgba(128, 0, 128, 0.767);
+    color: #ffffff;
+}
+
+.btn-weight:hover{
+    opacity: 0.7;
+}
